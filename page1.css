@@ -1,0 +1,127 @@
+header {
+	color:#f80333;
+	background-color:#000000;
+	text-align:center;
+}
+img {
+	text-align:left;
+	height:200px;
+	width:200px;
+	padding-top:50px;
+	padding-bottom:0px;
+}
+main p {
+	text-align:center;
+	display:inline;
+}
+a link {
+	text-align:center;
+}
+footer {
+	text-align:center;
+	background-color:#000000;
+	color:#F80333;
+}
+.restaurant-section {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 20px;
+  min-height: 300px;
+}
+
+.restaurant-info {
+  text-align: center;
+}
+footer img {
+	height:300px;
+	width:300px;
+}
+html {
+	font-family:Arial, Helvetica, Sans-serif;
+	background-color:black;
+}
+#Paxton {
+	background-color:#5E1818;
+	color:#FAAC0F;
+	font-weight:bold;
+}
+#Works {
+	color:#E20A0A;
+	background-color:white;
+	font-weight:bold;
+}
+#Ramseys {
+	color:#97A25D;
+	background-color:#F8F3DA;
+	font-weight:bold;
+}
+#Larosas {
+	color:#FFFFFF;
+	background-color:#C31010;
+	font-weight:bold;
+}
+#dw {
+	color:white;
+	background-color:rgb(0, 98, 175);
+	font-weight:bold;
+}
+#graeter {
+	background-color:#8A1A58;
+	color:#FCF2B0;
+	font-weight:bold;
+}
+hr {
+	background-color:black;
+}
+footer {
+	text-align:center;
+}
+table{
+	left:50%;
+}
+#footer{
+	display:flex;
+	justify-content:center;
+}
+td{
+	padding:5px;
+}
+td a{
+	text-decoration:none;
+	color:#f80333;
+	text-decoration:underline;
+}
+#info{
+	padding-top:20px;
+}
+h2 a{
+	text-decoration:none;
+	color:#F80333;
+	text-decoration:underline;
+}
+a {
+	text-decoration:none;
+}
+@media screen and (max-width: 768px) {
+	img{
+		display:none;
+	}
+	small{
+		display:none;
+	}
+	p small{
+		display:block;
+	}
+	hr{
+		display:none;
+	}
+}
+form{
+	color:#FFFFFF;
+	text-align:center;
+}
+#white{
+	color:#FFFFFF;
+	text-align:center;
+}
